@@ -1,5 +1,13 @@
+![](Amira.png)
 # Amira Moussa
 
+### Profile:
+ Web Developer
+ Phone Number: 0096176399321
+ Email: amira.moussa7197@gmail.com
+ 
+ ### About Me
+ I'm a hardworker and a dedicated person who seeks a position that matches my qualifications in your company... Hoping to achieve more success together.
  
  ### Skills
  - Microsoft Office (excel, word, PPT, Outlook)
